@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Home Page</title>
+</head>
+
+<body>
+<h1>Il mio titolo</h1>
+<marquee><h2>Il mio sottotitolo</h2></marquee>
+<hr>
+<p>Il mio testo è un <strong>paragrafo</strong> con<br> all'interno <del>dei </del> contenuti di <u>tipo</u> <i>testuale</i></p>
+<!-- Qui inizia il secondo paragrafo -->
+<p>Questo appartamento appartiene alla<strong> 1<sup>a</sup> classe <mark>energetica</mark> e la metratura è di 250<sub>mq</sub></strong></p>
+<!--questo è un blocco di citazione--> 
+<blockquote>L'acqua e importante per la sopravvivenza<br>di tutti.<br><br><i>Mario Rossi</i></blockquote>
+ <!--questo è un blocco per gli indirizzi-->   
+<address>
+    ISTITUTO PROVA SRL <br>
+    Via Rossi 12 Roma (RM)
+</address>    
+ <!--questo è un blocco per i codici-->
+ <code>Ovvero inserisce un testo in stile <strong>macchina</strong> da scrivere</code> 
+ <!--questo è un blocco per elenchi puntati e numerati-->
+<ul>
+ <li>Servizi Igienici</li>   <li>Bar</li> 
+ <li>Stampa Foto</li>
+    <ul>
+       <li>Stampa su Tela</li> 
+       <li>Stampa su tessuto</li>
+         <ul>
+            <li>Magliette</li>
+            <li>Cuscini</li>
+         </ul>
+    </ul>
+  <li>Gadget</li> 
+</ul>
+ 
+<ol>
+ <li>Pulizia</li>    
+ <li>Sanificazione</li>    
+ <li>Derattizzazione</li>
+    <ol>
+    <li>Da Topi</li>
+    <li>Da Zanzare</li>
+    </ol>
+</ol>   
+    
+    
+</body>
+</html>
