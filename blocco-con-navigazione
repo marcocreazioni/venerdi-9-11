@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>blocchi</title>
+<style>
+    header {background-color: cyan;
+            text-align:center;    
+    }
+    nav {background-color:yellowgreen;
+    }
+    main {background-color:olivedrab;
+    }
+    section {background-color:yellow;
+    }
+    footer {background-color:tomato; 
+        }
+    nav ul li {display:inline-block;
+               width:180px;
+               text-align: center;
+               
+    }
+    nav ul li:hover {background-color:orange;
+        
+    }
+    nav a {text-decoration:none;
+           color:white;
+           font-size:22pt;
+           
+    }
+</style>    
+</head>
+
+<body>
+<header><h1>Il mio titolo</h1></header>
+<nav>
+    <ul>
+        <li><a href="#">Home Page</a></li>
+        <li><a href="#">Chi siamo</a></li>
+        <li><a href="#">Servizi</a></li>
+        <li><a href="#">Contatti</a></li>
+    </ul>
+    </nav>
+<main>Inserite qui il contenuto del nuovo tag main
+  <section>Inserite qui il contenuto del nuovo tag section</section>
+  <section>Inserite qui il contenuto del nuovo tag section</section>
+</main>
+<footer>Inserite qui il contenuto del nuovo tag footer</footer>
+</body>
+</html>
